@@ -1,0 +1,9 @@
+/contact/node_modules
+/user/node_modules
+/proxy/node_modules
+
+/contact/.env
+/contact/.env.dev
+
+/user/.env
+/user/.env.dev
